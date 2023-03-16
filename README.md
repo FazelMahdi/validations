@@ -9,5 +9,6 @@ validations for forms
 - length
 - isMobile
 - isNationalId
--- normalizePhone
--- checkNationalId
+* checkNationalId
+
+# normalizePhone
