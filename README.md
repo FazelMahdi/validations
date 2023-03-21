@@ -9,6 +9,6 @@ validations for forms
 - length
 - isMobile
 - isNationalId
-* checkNationalId
+* checkNationalId // iranian nationalId
 
 # normalizePhone
